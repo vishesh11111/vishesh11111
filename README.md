@@ -17,4 +17,38 @@ A clone of an e-commerce website where you can buy sports related things like sp
     <img style="height: 60px; width: 80px; margin: 10px;" src="https://png.pngitem.com/pimgs/s/664-6644509_icon-react-js-logo-hd-png-download.png">
 
 </div>
-## Landing Page :
+
+### Hekk
+# Hi there, I'm Kusal 🤘🏽
+## I'm a data science engineer @arimacdev and a blockchain enthusiast
+🌏 I speak java, python and javascript fluently. Picking up on golang and R.  
+
+🌱 I’m currently learning the usage of attention models in NLP. 
+
+💻 Currently working as a Senior Data Science Engineer for Arimac. 
+
+📫 Reach me [email](mailto:kusalhettiarachchi@hotmail.com)
+
+🐦 Follow me on [twitter](https://twitter.com/waitamiwrong)
+
+🗂 Visit my [site](https://kusal.online)
+
+
+
+ 
+<div> 
+  <table>
+    <td>
+      <a href="https://github.com/kusalhettiarachchi/kusalhettiarachchi">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalhettiarachchi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7&hide=jupyter%20notebook,julia,Cmake,Makefile,CSS,PHP" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kusalhettiarachchi/kusalhettiarachchi">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=kusalhettiarachchi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kusal's GitHub Stats" />
+      </a>
+    </td>
+  </table>
+</div>
+
+

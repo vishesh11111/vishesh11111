@@ -19,19 +19,19 @@ A clone of an e-commerce website where you can buy sports related things like sp
 </div>
 
 ### Hekk
-# Hi there, I'm Kusal 🤘🏽
-## I'm a data science engineer @arimacdev and a blockchain enthusiast
-🌏 I speak java, python and javascript fluently. Picking up on golang and R.  
+# Hi there, I'm Vishesh Kushwaha 🤘🏽
+## I'm a Full Stack Web Developer
+🌏 I speak javascript fluently. Picking up on golang and R.  
 
-🌱 I’m currently learning the usage of attention models in NLP. 
+🌱 I’m currently learning at Masai School. 
 
-💻 Currently working as a Senior Data Science Engineer for Arimac. 
+💻 Currently working as a junior Full Stack Engineer for Masai. 
 
-📫 Reach me [email](mailto:kusalhettiarachchi@hotmail.com)
+📫 Reach me [email](mailto:kvish318@gmail.com)
 
-🐦 Follow me on [twitter](https://twitter.com/waitamiwrong)
+🐦 Follow me on [twitter](https://twitter.com/KuahwahaVishesh)
 
-🗂 Visit my [site](https://kusal.online)
+🗂 Visit my [site]()
 
 
 
@@ -40,12 +40,12 @@ A clone of an e-commerce website where you can buy sports related things like sp
   <table>
     <td>
       <a href="https://github.com/kusalhettiarachchi/kusalhettiarachchi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalhettiarachchi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7&hide=jupyter%20notebook,julia,Cmake,Makefile,CSS,PHP" />
+<!--         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalhettiarachchi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7&hide=jupyter%20notebook,julia,Cmake,Makefile,CSS,PHP" /> -->
       </a>
     </td>
     <td>
       <a href="https://github.com/kusalhettiarachchi/kusalhettiarachchi">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=kusalhettiarachchi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kusal's GitHub Stats" />
+<!--         <img align="top" src="https://github-readme-stats.vercel.app/api?username=kusalhettiarachchi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kusal's GitHub Stats" /> -->
       </a>
     </td>
   </table>

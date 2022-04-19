@@ -9,7 +9,8 @@ A clone of an e-commerce website where you can buy sports related things like sp
 ​
 ### Tech stacks used :
 
-*  **Html** 
+*  **Html** https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png 
+*  
 *  **CSS** 
 *  **Java Script** 
 

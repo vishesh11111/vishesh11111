@@ -14,7 +14,7 @@
 
 
 ### Tech stacks used :
-<div style="display: flex; margin-top: 16px;">
+<div style="display: flex; margin-top: 16px; margin-bottom: 30px">
 
   <img style="height: 60px; width: 80px; margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png">
    <img style="height: 60px; width: 60px; margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649">

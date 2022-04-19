@@ -8,8 +8,9 @@ A clone of an e-commerce website where you can buy sports related things like sp
 
 ​
 ### Tech stacks used :
+<div style="display: flex">
 
-  <img style="width:500px; hight:80px; display:inline-block" src="https://miro.medium.com/max/1400/1*Dc5f6x9KxALujjUDzn7PWw.jpeg">
-  <img style="width:500px; hight:80px; display:inline-block" src="https://c4.wallpaperflare.com/wallpaper/453/129/282/html5-hyper-text-markup-language-html-wallpaper-thumb.jpg">
-
+  <img style="width:500px; hight:80px" src="https://miro.medium.com/max/1400/1*Dc5f6x9KxALujjUDzn7PWw.jpeg">
+  <img style="width:60px; hight:40px" src="https://c4.wallpaperflare.com/wallpaper/453/129/282/html5-hyper-text-markup-language-html-wallpaper-thumb.jpg">
+</div>
 ## Landing Page :

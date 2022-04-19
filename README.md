@@ -1,16 +1,16 @@
 # Hi there, I'm Vishesh Kushwaha 🤘🏽
 ## I'm a Full Stack Web Developer
-🌏 I speak javascript fluently. Picking up on golang and R.  
+         🌏 I speak javascript fluently. Picking up on golang and R.  
+ 
+         🌱 I’m currently learning at Masai School. 
 
-🌱 I’m currently learning at Masai School. 
+         💻 Currently working as a junior Full Stack Engineer for Masai. 
 
-💻 Currently working as a junior Full Stack Engineer for Masai. 
+         📫 Reach me [email](mailto:kvish318@gmail.com)
 
-📫 Reach me [email](mailto:kvish318@gmail.com)
+         🐦 Follow me on [twitter](https://twitter.com/KuahwahaVishesh)
 
-🐦 Follow me on [twitter](https://twitter.com/KuahwahaVishesh)
-
-🗂 Visit my [site]()
+         🗂 Visit my [site]()
 
 
 ### Tech stacks used :

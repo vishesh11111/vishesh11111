@@ -9,6 +9,6 @@ A clone of an e-commerce website where you can buy sports related things like sp
 ​
 ### Tech stacks used :
 
-  <img style="width:500px; hight:100px" src="https://miro.medium.com/max/1400/1*Dc5f6x9KxALujjUDzn7PWw.jpeg">
+  <img style="width:500px; hight:100px;border-radius:3px" src="https://miro.medium.com/max/1400/1*Dc5f6x9KxALujjUDzn7PWw.jpeg">
 
 ## Landing Page :

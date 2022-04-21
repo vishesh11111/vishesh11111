@@ -1,6 +1,6 @@
 # Hi there, I'm Vishesh Kushwaha 🤘🏽
 ## I'm a Full Stack Web Developer
-         🌏 I speak javascript fluently. Picking up on golang and R.  
+         🌏 I speak javascript fluently.  
  
          🌱 I’m currently learning at Masai School. 
 

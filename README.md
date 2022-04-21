@@ -34,12 +34,11 @@
   <table>
     <td>
       <a href="https://github.com/kusalhettiarachchi/kusalhettiarachchi">
-<!--         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalhettiarachchi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7&hide=jupyter%20notebook,julia,Cmake,Makefile,CSS,PHP" /> -->
       </a>
     </td>
     <td>
       <a href="https://github.com/vishesh11111">
-<!--         <img align="top" src="https://github-readme-stats.vercel.app/api?username=kusalhettiarachchi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kusal's GitHub Stats" /> -->
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=kusalhettiarachchi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kusal's GitHub Stats" />
         <img style="width:600px; hight: 50px; margin-top: 30px;" src="https://miro.medium.com/max/1050/1*Dc5f6x9KxALujjUDzn7PWw.jpeg">
       </a>
     </td>

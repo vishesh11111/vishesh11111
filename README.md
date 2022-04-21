@@ -12,11 +12,16 @@
 
          🗂 Visit my [site]()
 ### Get get touch 
-
+<div style="display: flex; margin-top: 25px; margin-bottom: 30px;">
 <a href="https://www.linkedin.com/in/visheshkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/visheshkushwaha/" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/visheshkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/visheshkushwaha/" height="30" width="40" /></a>
+<a href="https://twitter.com/KuahwahaVishesh" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="https://www.linkedin.com/in/visheshkushwaha/" height="30" width="40" /></a>
+         
+         
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kvish318.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="https://www.linkedin.com/in/visheshkushwaha/" height="30" width="40" /></a>
+         <path d="M10 0.4c-5.302 0-9.6 4.298-9.6 9.6s4.298 9.6 9.6 9.6 9.6-4.298 9.6-9.6-4.298-9.6-9.6-9.6zM12.274 7.034h-1.443c-0.171 0-0.361 0.225-0.361 0.524v1.042h1.805l-0.273 1.486h-1.532v4.461h-1.703v-4.461h-1.545v-1.486h1.545v-
 
+ </div>       
 ### Tech stacks used :
 <h></h>
 <div style="display: flex; margin-top: 25px; margin-bottom: 30px;">

@@ -23,7 +23,9 @@
     <img style="height: 60px; width: 80px; margin: 8px;" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg">
     <img style="height: 60px; width: 80px; margin: 8px;" src="https://www.bairesdev.com/wp-content/uploads//2021/07/Expressjs.svg">
     <img style="height: 60px; width: 80px; margin: 8px;" src="https://png.pngitem.com/pimgs/s/664-6644509_icon-react-js-logo-hd-png-download.png">
-
+    <img style="height: 60px; width: 80px; margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">     
+    <img style="height: 60px; width: 80px; margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
+    <img style="height: 60px; width: 80px; margin: 8px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
 </div>
 
 
@@ -38,8 +40,6 @@
     </td>
     <td>
       <a href="https://github.com/vishesh11111">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=kusalhettiarachchi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kusal's GitHub Stats" />
-        <img style="width:600px; hight: 50px; margin-top: 30px;" src="https://miro.medium.com/max/1050/1*Dc5f6x9KxALujjUDzn7PWw.jpeg">
       </a>
     </td>
   </table>

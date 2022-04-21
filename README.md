@@ -49,17 +49,5 @@
 
 
  
-<div> 
-  <table>
-    <td>
-      <a href="https://github.com/kusalhettiarachchi/kusalhettiarachchi">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vishesh11111">
-      </a>
-    </td>
-  </table>
-</div>
 
 

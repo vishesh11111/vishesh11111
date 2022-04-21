@@ -22,8 +22,8 @@
     <img style="height: 60px; width: 110px; margin: 3px; margin-top: 7px;" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-768x480.png">
     <img style="height: 60px; width: 80px; margin: 8px;" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg">
     <img style="height: 60px; width: 80px; margin: 8px;" src="https://www.bairesdev.com/wp-content/uploads//2021/07/Expressjs.svg">
-    <img style="height: 60px; width: 80px; margin: 8px;" src="https://png.pngitem.com/pimgs/s/664-6644509_icon-react-js-logo-hd-png-download.png">
-    <img style="height: 60px; width: 80px; margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">     
+  
+    <img style="height: 60px; width: 80px; margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">   
     <img style="height: 60px; width: 80px; margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
     <img style="height: 60px; width: 80px; margin: 8px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
 </div>

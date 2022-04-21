@@ -48,9 +48,9 @@
 
 ### About GitHub Repository && Used Code in Repository
 
-<div>
+<div  style="display: flex">
        <a href="https://www.linkpicture.com/view.php?img=LPic626105adc6318349707542"><img style="height: 200px; width: 420px; margin: 8px;  border-radius: 5px;" src="https://www.linkpicture.com/q/Screenshot-1244.png" type="image"></a>
-<a href='https://www.linkpicture.com/view.php?img=LPic62610992e8a97443679123'><img src='https://www.linkpicture.com/q/Screenshot-1245.png' type='image'></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic62610992e8a97443679123'><img  style="height: 200px; width: 420px; margin: 8px;  border-radius: 5px;"  src='https://www.linkpicture.com/q/Screenshot-1245.png' type='image'></a>
           
 </div>
 

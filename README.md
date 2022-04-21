@@ -10,7 +10,7 @@
 
          🐦 Follow me on [twitter](https://twitter.com/KuahwahaVishesh)
 
-         🗂 Visit my [site]()
+         🗂 Visit my [site](https://taupe-pasca-70e5cc.netlify.app/)
          
          
          

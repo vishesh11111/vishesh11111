@@ -63,7 +63,7 @@
 
 
 <div  style="display: flex">
-         <img align="left" alt="Coding" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+         <img style="height: 200px; width: 420px; margin: 8px;  border-radius: 5px;" align="left" alt="Coding" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
        <a href="https://www.linkpicture.com/view.php?img=LPic626105adc6318349707542"><img style="height: 200px; width: 420px; margin: 8px;  border-radius: 5px;" src="https://www.linkpicture.com/q/Screenshot-1244.png" type="image"></a>
 <a href='https://www.linkpicture.com/view.php?img=LPic62610992e8a97443679123'><img  style="height: 200px; width: 420px; margin: 8px;  border-radius: 5px;"  src='https://www.linkpicture.com/q/Screenshot-1245.png' type='image'></a>
 <a style="margin-left:80px" href='https://www.linkpicture.com/view.php?img=LPic62610d405a18f434068473'><img style="height: 200px; width: 420px; margin: 8px;  border-radius: 5px;" src='https://www.linkpicture.com/q/Screenshot-1246.png' type='image'></a>

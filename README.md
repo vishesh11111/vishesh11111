@@ -14,7 +14,7 @@
 
          🐦 Follow me on [twitter](https://twitter.com/KuahwahaVishesh)
 
-         🗂 Visit my [site](https://taupe-pasca-70e5cc.netlify.app/)
+         🗂 Visit my [site](https://inquisitive-pavlova-39e1f6.netlify.app/)
          
          
          
